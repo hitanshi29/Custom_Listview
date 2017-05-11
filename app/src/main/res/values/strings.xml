@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Cust_list</string>
+    <string-array name="state">
+        <item>Gujarat</item>
+        <item>Rajasthan</item>
+        <item>Mumbai</item>
+        <item>Chennai</item>
+        <item>Delhi</item>
+        <item>Hydrabad</item>
+        <item>Punjab</item>
+        <item>Banglore</item>
+        <item>Pune</item>
+        <item>Kolkata</item>
+
+    </string-array>
+</resources>
